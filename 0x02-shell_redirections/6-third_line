@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cat iacta | head -4 | tail -1)"
+echo "$(cat iacta | head -3 | tail -1)"
